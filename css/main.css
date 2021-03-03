@@ -8,11 +8,25 @@
 }
 
 
-a {
+.oswald {
     font-family: "Oswald";
+}
+.courgette {
+    font-family: "Courgette";
 }
 .navbar-brand {
     font-family: "Courgette";
     margin: 0 0 0 1rem;
     font-size: 2rem
+}
+header {
+    color: white;
+}
+
+.info img {
+    width: 250px;
+}
+
+p.oswald {
+    color: #6c757d;
 }
