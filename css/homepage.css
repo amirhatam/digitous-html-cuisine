@@ -7,7 +7,7 @@ header {
 
 .header-img {
     background-image: url("../img/header.jpg");
-    
+    background-position: center;
 }
 
 header, nav {
@@ -22,15 +22,11 @@ header, nav {
     width: 100px;
 }
 
-.row-h h1 {
-    margin-top: 3%;
-}
+
 
 /* section */
 
-.articles {
-    height: 650px;
-}
+
 
 .sec-title {
     margin: 5% 0;
@@ -84,4 +80,30 @@ header, nav {
     padding: 5px 2px;
     background-color: white;
     border-radius: 4px
+}
+
+
+@media (max-width: 576px) {
+    .info img {
+        width: 90vmin;
+       
+    }
+    .form-info {
+        display: none;
+    }
+
+    .text-info-section {
+        width: 100%;
+    
+    }
+
+    .box-footer {
+        display: block;
+    }
+
+
+    footer {
+        height: 550px;
+        display: flex;
+    }
 }
