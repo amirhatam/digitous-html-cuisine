@@ -1,0 +1,18 @@
+.avatar {
+    height: 200px;
+}
+
+.header-img {
+    background-image: url("../img/team/team.jpg");
+    background-position: center;
+}
+
+header, nav {
+    background-color : rgba(0,0,0,0.7);
+}
+
+.profil-link {
+    color: #000;
+    text-decoration: none;
+}
+
