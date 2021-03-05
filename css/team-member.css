@@ -1,0 +1,23 @@
+.antoine-avatar {
+    height: 300px;
+}
+
+.header-img {
+    background-image: url("../img/team/team.jpg");
+    background-position: center;
+}
+
+header, nav {
+    background-color : rgba(0,0,0,0.7);
+}
+
+
+.antoine-bio {
+    white-space: pre-line;
+}
+
+.avatar-bio {
+    float: left;
+    margin: 10px;
+    width: 300px;
+}
