@@ -82,6 +82,11 @@ header, nav {
     border-radius: 4px
 }
 
+section a  {
+    color: #000;
+    text-decoration: none;
+}
+
 
 @media (max-width: 768px) {
     .info img {
