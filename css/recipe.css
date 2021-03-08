@@ -1,0 +1,40 @@
+.header-img {
+    background-image: url("../img/recipes/paella/paella-header.jpg");
+    background-position: center;
+}
+
+header, nav {
+    background-color : rgba(0,0,0,0.7);
+}
+
+.h-span1 {
+    border: 1px solid #aaaaaa;
+    background-color: #aaaaaa;
+    text-align: center;
+    color: #45494b;
+    border-radius: 3%;
+}
+.h-span2 {
+    border: 1px solid #aaaaaa;
+    background-color: #aaaaaa;
+    text-align: center;
+    color: #45494b;
+    border-radius: 3%;
+}
+
+.a-img {
+    color: #000;
+    text-decoration: none;
+}
+
+main .img-box div {
+    border: none;
+}
+
+.img-box a {
+    border: 1px solid #aaaaaa;
+    background-color: #aaaaaa;
+    text-align: center;
+    color: #45494b;
+    border-radius: 3%;
+}
